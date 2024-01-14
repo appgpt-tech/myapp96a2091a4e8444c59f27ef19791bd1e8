@@ -16,9 +16,6 @@ Duration: string;
 Album: string;
 
 @Column({nullable: true})
-Genre: string;
-
-@Column({nullable: true})
 Id: string;
 
 
