@@ -14,8 +14,8 @@ import { GenresList, GenresCreate, GenresEdit} from "./resources/Genres";
 import { TracksList, TracksCreate, TracksEdit} from "./resources/Tracks";
 import AlbumsIcon from "@mui/icons-material/Album";
 import ArtistsIcon from "@mui/icons-material/Person";
-import GenresIcon from "@mui/icons-material/Category";
-import TracksIcon from "@mui/icons-material/LibraryMusic"; 
+import GenresIcon from "@mui/icons-material/MusicNote";
+import TracksIcon from "@mui/icons-material/Audiotrack"; 
 // SUPERTOKENS
 import React from "react";
 import SuperTokens, {
